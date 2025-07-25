@@ -30,4 +30,5 @@ https://landesarchiv-berlin.de/uebersicht-strassenverzeichnisse-von-berlin
 
 ### 1930
 
-
+- *Am Bauernwäldchen (Straße 112)
+- Str. 86 D
