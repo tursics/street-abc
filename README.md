@@ -67,4 +67,7 @@ https://landesarchiv-berlin.de/uebersicht-strassenverzeichnisse-von-berlin
 - Platz Z
 - Platz IV
 - Platz 466
+- Privatstr. (6x)
+- Privatstr. A
+- Privatstr. B
 - Str. 86 D
