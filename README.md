@@ -382,4 +382,36 @@ https://landesarchiv-berlin.de/uebersicht-strassenverzeichnisse-von-berlin
 - Straße 194
 - Straße 195
 - Straße 196
-- Str. 86 D
+- Straße 201
+- Straße 202a
+- Straße 202c
+- Straße 202e
+- Straße 203
+- Straße 204a
+- Straße 204e
+- Straße 206
+- Straße 207
+- Straße 210
+- Straße 212b
+- Straße 213b
+- Straße 214
+- Straße 215
+- Straße 216
+- Straße 217
+- Straße 218
+- Straße 219
+- Straße 220
+- Straße 221
+- Straße 222
+- Straße 223 (2x)
+- Straße 224 (2x)
+- Straße 225 (2x)
+- Straße 226
+- Straße 227
+- Straße 228 (2x)
+- Straße 229
+- Straße 230 (2x)
+- Straße 231
+- Straße 232
+- Straße 233
+- Straße 234
