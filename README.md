@@ -34,21 +34,15 @@ https://landesarchiv-berlin.de/uebersicht-strassenverzeichnisse-von-berlin
 - Platz Nr. 1
 - Platz I
 - Platz II
+- Platz IV
 - Platz A (7x)
 - Platz B (4x)
-- Platz C 1 (2x)
-- Platz C (5x)
-- Platz D 1 (2x)
-- Platz D 2 u. H 2
-- Platz D 3
-- Platz D (2x)
-- Platz E 1
-- Platz E (4x)
-- Platz F 1
-- Platz F (2x)
+- Platz C (7x)
+- Platz D (6x)
+- Platz E (5x)
+- Platz F (3x)
 - Platz G (6x)
-- Platz H 2
-- Platz H (3x)
+- Platz H (4x)
 - Platz J (5x)
 - Platz K (6x)
 - Platz L (4x)
@@ -65,7 +59,6 @@ https://landesarchiv-berlin.de/uebersicht-strassenverzeichnisse-von-berlin
 - Platz W
 - Platz Xa
 - Platz Z
-- Platz IV
 - Platz 466
 - Privatstr. (6x)
 - Privatstr. A
@@ -103,4 +96,35 @@ https://landesarchiv-berlin.de/uebersicht-strassenverzeichnisse-von-berlin
 - Stadtbahnbögen 521-530
 - Stadtbahnbögen 531-573
 - Stadtbahnbögen 574-603
+- Straße A (5x)
+- Straße B (5x)
+- Straße C (4x)
+- Straße D (7x)
+- Straße E (2x)
+- Straße F (4x)
+- Straße G (3x)
+- Straße H (3x)
+- Straße J (3x)
+- Straße K (2x)
+- Straße S
+- Straße 1 (13x)
+- Straße 1a
+- Straße 1d
+- Straße 2 (12x)
+- Straße 2a
+- Straße 3 (9x)
+- Straße 3a (2x)
+- Straße 4 (13x)
+- Straße 4a (2x)
+- Straße 4b
+- Straße 4c
+- Straße 5 (12x)
+- Straße 5a (2x)
+- Straße 6 (6x)
+- Straße 6a
+- Straße 7 (8x)
+- Straße 7a
+- Straße 7c
+- Straße 8 (6x)
+- Straße 9 (5x)
 - Str. 86 D
