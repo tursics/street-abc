@@ -206,4 +206,89 @@ https://landesarchiv-berlin.de/uebersicht-strassenverzeichnisse-von-berlin
 - Straße 39b
 - Straße 39c
 - Straße 39F
+- Straße 40 (8x)
+- Straße 40 A (3x)
+- Straße 40 c
+- Straße 40 C
+- Straße 40 d
+- Straße 40 D
+- Straße 40 E
+- Straße 40-41 B
+- Straße 41 (8x)
+- Straße 41-42
+- Straße 42 (10x)
+- Straße 43 (7x)
+- Straße 43a
+- Straße 44 (6x)
+- Straße 45 (7x)
+- Straße 46 (9x)
+- Straße 46a
+- Straße 46b
+- Straße 47 (8x)
+- Straße 48 (6x)
+- Straße 48a
+- Straße 49 (9x)
+- Straße 49b
+- Straße 50 (8x)
+- Straße 51 (7x)
+- Straße 51b
+- Straße 52 (9x)
+- Straße 52 A
+- Straße 52 B
+- Straße 53 (6x)
+- Straße 54 (5x)
+- Straße 55 (3x)
+- Straße 56
+- Straße 56a
+- Straße 57 (4x)
+- Straße 58 (3x)
+- Straße 59 (7x)
+- Straße 60 (4x)
+- Straße 61 (5x)
+- Straße 62 (6x)
+- Straße 63 (3x)
+- Straße 64 (4x)
+- Straße 65 (4x)
+- Straße 66 (3x)
+- Straße 67 (2x)
+- Straße 68
+- Straße 69 (3x)
+- Straße 69a
+- Straße 69d
+- Straße 70
+- Straße 71 (2x)
+- Straße 73 (2x)
+- Straße 75 (2x)
+- Straße 76
+- Straße 76 A
+- Straße 77 (2x)
+- Straße 77 A
+- Straße 78 (3x)
+- Straße 79 (3x)
+- Straße 80 (2x)
+- Straße 80b
+- Straße 80c
+- Straße 80d
+- Straße 80e
+- Straße 80f
+- Straße 80g
+- Straße 81 (2x)
+- Straße 82 (3x)
+- Straße 83 (2x)
+- Straße 86 (3x)
+- Straße 86 B
+- Straße 86 E
+- Straße 86 F
+- Straße 87 (2x)
+- Straße 88 (2x)
+- Straße 89
+- Straße 90 (3x)
+- Straße 91
+- Straße 92
+- Straße 93
+- Straße 94
+- Straße 95
+- Straße 96 (3x)
+- Straße 98 (4x)
+- Straße 99a
 - Str. 86 D
