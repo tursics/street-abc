@@ -154,4 +154,56 @@ https://landesarchiv-berlin.de/uebersicht-strassenverzeichnisse-von-berlin
 - Straße 18 A
 - Straße 19 (8x)
 - Straße 19a
+- Straße 20 (8x)
+- Straße 20a
+- Straße 21 (8x)
+- Straße 22 (6x)
+- Straße 22a (3x)
+- Straße 22 B
+- Straße 23 (4x)
+- Straße 23c
+- Straße 24 (7x)
+- Straße 24a
+- Straße 25 (4x)
+- Straße 25a (2x)
+- Straße 26 (4x)
+- Straße 26a
+- Straße 27 (5x)
+- Straße 27a
+- Straße 28 (8x)
+- Straße 29 (6x)
+- Straße 30 (6x)
+- Straße 30 B
+- Straße 30 C
+- Straße 30 D
+- Straße 30 E
+- Straße 31 (5x)
+- Straße 31 B
+- Straße 31 C
+- Straße 31 D
+- Straße 31 E
+- Straße 32 (4x)
+- Straße 32a
+- Straße 33 (3x)
+- Straße 33a
+- Straße 34 (7x)
+- Straße 34a
+- Straße 35 (7x)
+- Straße 35a (2x)
+- Straße 35e
+- Straße 35f
+- Straße 35g
+- Straße 36 (8x)
+- Straße 37 (9x)
+- Straße 37b
+- Straße 37c
+- Straße 38 (9x)
+- Straße 38a
+- Straße 38b
+- Straße 38c
+- Straße 39 (8x)
+- Straße 39a
+- Straße 39b
+- Straße 39c
+- Straße 39F
 - Str. 86 D
