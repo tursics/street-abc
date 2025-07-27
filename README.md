@@ -127,4 +127,31 @@ https://landesarchiv-berlin.de/uebersicht-strassenverzeichnisse-von-berlin
 - Straße 7c
 - Straße 8 (6x)
 - Straße 9 (5x)
+- Straße 10 (7x)
+- Straße 10 A
+- Straße 11 (3x)
+- Straße 11a
+- Straße 12 (6x)
+- Straße 12a (2x)
+- Straße 12b
+- Straße 13 (6x)
+- Straße 13a
+- Straße 14 (8x)
+- Straße 14 A (2x)
+- Straße 14b
+- Straße 15 (2x)
+- Straße 15 A (3x)
+- Straße 15b
+- Straße 16 (6x)
+- Straße 16 A
+- Straße 17 (3x)
+- Straße 17a
+- Straße 17b
+- Straße 17c
+- Straße 17d
+- Straße 17f
+- Straße 18 (8x)
+- Straße 18 A
+- Straße 19 (8x)
+- Straße 19a
 - Str. 86 D
